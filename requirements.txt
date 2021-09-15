@@ -1,4 +1,4 @@
-tensorflow==2.2.0
+tensorflow
 streamlit==0.88.0
 numpy==1.18.4
 opencv_python==4.2.0.34
